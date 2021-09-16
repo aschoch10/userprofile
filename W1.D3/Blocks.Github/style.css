@@ -1,0 +1,39 @@
+
+.intro {
+    color: grey;
+    text-emphasis: bold;
+    font-size:x-large;
+    text-align: center;
+}
+
+.top{
+    width: 800px;
+    height: 200px;
+    background-color: rgb(44, 121, 69);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    margin: 15px;
+
+}
+
+.middle {
+    width: 800px;
+    height: 200px;
+    background: mediumaquamarine;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    margin: 15px;
+}
+
+.bottom {
+    width: 800px;
+    height: 200px;
+    background: teal;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    margin: 15px;
+
+}
