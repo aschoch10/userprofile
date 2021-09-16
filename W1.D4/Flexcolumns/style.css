@@ -1,0 +1,10 @@
+.row{
+    height: 50px;
+    width: 50px;
+    display: flex;
+
+}
+
+.col {
+    display: flex;
+}
