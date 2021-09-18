@@ -1,0 +1,187 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.intro {
+    height: 65px;
+    background-color:  #005C5C;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.introhead {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    width: 50%;
+}
+
+.button{
+    height: 25px;
+    width: 75px;
+    margin: 10px;
+    background-color:#0C2C56;;
+    font-size: medium;
+    color:white;
+}
+.bodymain{
+    height: 600px;
+    /* background-color: orange; */
+    display: flex;
+    justify-content: center;
+    padding-left: 14.2%;
+    padding-right: 15%;
+}
+
+.col1{
+    flex: 2;
+    /* background-color: red; */
+    height: 70%;
+    border: 2px solid #0C2C56;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.col2 {
+    flex: 1; 
+    /* background-color: blue; */
+    height: 100%;
+}
+.mapdot{
+    height: 18px;
+    width:12px;
+}
+
+.gear{
+    height: 12px;
+    width: 12px;
+}
+
+.photo{
+    border-radius: 50%;
+}
+
+.user{
+    background-color: white;
+}
+
+.head {
+    background-color:#0C2C56;
+    height: 80px;
+}
+
+.margin{
+    margin-top: -70px;
+}
+
+.wordsbody{
+    padding: 40px;
+}
+
+.eduhead{
+    background-color: #0C2C56;
+    height: 80px;
+}
+
+.edu{
+    margin-top: 20px;
+    border: 2px solid #0C2C56;
+}
+
+.eduwords {
+    margin-top: -12%;
+    margin-left: 40px;
+    color: grey;
+}
+
+.edubody{
+    padding: 40px;
+}
+
+.contop{
+    background-color: #0C2C56;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: grey;
+}
+
+.conn-body{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
+
+.conn2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.conn3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.col2 img{
+    border-radius: 50%;
+    height: 25px;
+    width: 25px
+}
+
+.connect{
+    border:  2px solid #0C2C56;
+    margin-top: 20px;
+}
+
+.flexleft{
+    display: flex;
+    align-items: flex-start;
+    /* justify-content: space-evenly; */
+    align-content: flex-start;
+    margin-top: 5px;
+    margin-left: 38px;
+}
+
+.yconn h2{
+    color: grey;
+}
+
+.ycontop{
+    background-color: #0C2C56;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: grey;
+}
+
+.yconn{
+    margin-top: 20px;
+    border: 2px solid #0C2C56;
+}
+
+.cardbody a{
+    color: blue;
+    text-decoration: underline;
+}
+
+.last{
+    color: blue;
+    text-decoration: underline;
+    border: 2px solid #0C2C56;
+    margin-top: -2px;
+
+}
+
+.left {
+    margin-left: 10px;
+}
